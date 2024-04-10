@@ -7,7 +7,7 @@ This repo contains the policies and discussions for the USACE organization.  The
 There are few requirements for participating in the USACE organization, and some recommendations below:
 
 ### GitHub Accounts
-It is probably stating the obvious, but in order to access non-public resources on the USACE organization, you will need to set up a GitHub account. Each member of the organization must have an individual account, sharing account credentials violates the GitHub terms of service, your cyber security training, and common sense.
+In order to access non-public resources on the USACE organization, you will need to set up a GitHub account. Each member of the organization must have an individual account, sharing account credentials violates the GitHub terms of service, your cyber security training, and common sense.
 
 ### User Profiles
 We understand there are reasons for maintaining a pseudonymous profile on Github, we do requre that the profile you use as a member of this organization be set up so that we can collaborate more effectively, as of 6-Oct-2023 we will be requiring all member profiles to include: 
